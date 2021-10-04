@@ -1,4 +1,4 @@
-# dotnet5-web-app
+# dotnet5-web-rpg-game
 
 Build a complete .NET 5 back-end with Web API, Entity Framework Core, SQL Server & SQLite
 Implement Token Authentication with JSON Web Tokens & Roles
