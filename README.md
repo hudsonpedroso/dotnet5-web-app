@@ -1,1 +1,9 @@
 # dotnet5-web-app
+
+Build a complete .NET 5 back-end with Web API, Entity Framework Core, SQL Server & SQLite
+Implement Token Authentication with JSON Web Tokens & Roles
+Utilize all three types of relationships in your database: one-to-one, one-to-many, many-to-many
+Use the HTTP request methods GET, POST, PUT & DELETE
+Implement best practices that are used in the real world like a proper structure for your Web API, Dependency Injection, asynchronous calls with async/await and Data-Transfer-Objects (DTOs)
+Use LINQ to filter, sort, map, select and access your entities.
+Seed data with code-first migrations programmatically
